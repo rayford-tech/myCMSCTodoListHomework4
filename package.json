@@ -1,0 +1,23 @@
+{
+  "name": "homework4",
+  "version": "1.0.0",
+  "description": "This is CMSC 5613 Homework4 project",
+  "main": "todo.js",
+  "scripts": {
+    "test": "jest",
+    "coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayford-tech/myCMSCTodoListHomework4.git"
+  },
+  "author": "Rayford Ocansey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rayford-tech/myCMSCTodoListHomework4/issues"
+  },
+  "homepage": "https://github.com/rayford-tech/myCMSCTodoListHomework4#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
